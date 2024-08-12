@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin Debono
+- 👋 Hi, I’m Kevin Debono, SANS Master of Science in Information Security Engineering Student
 - 👀 I’m interested in PowerShell, Digital Forensics and Malware Reverse Engineering
 - 🌱 I’m currently learning Reverse Engineering
 - 💞️ I’m looking to collaborate on Malware Analysis/Reverse Engineering and PowerShell
